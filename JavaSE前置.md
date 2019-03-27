@@ -6,7 +6,7 @@
 | :----: | :----------------------: | :------------------------------------------------------------------------------: |
 |  JDK   |   Java Development Kit   |                         编写Java程序的程序员所使用的软件                         |
 |  JRE   | Java Runtime Environment | 运行Java程序的用户使用的软件（包含虚拟机但没有编译器，提供给不需要编译器的用户） |
-| Server |           JRE            |                           在服务器上运行Java程序的软件                           |
+|        |     Server JRE           |                           在服务器上运行Java程序的软件                           |
 |   SE   |     Standard Edition     |                        用于桌面或简单服务器应用的Java平台                        |
 |   EE   |    Enterprise Edition    |                           用于复杂服务器应用的Java平台                           |
 |   ME   |      Micro Edition       |                         用于手机和其他小型设备的Java平台                         |
@@ -15,7 +15,7 @@
 
 ## 第一步，下载和设置JDK
 
-1. 访问[www.oracle.com/technetwork/java/javase/downloads](www.oracle.com/technetwork/java/javase/downloads)
+1. 访问[https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. 找到最新版本的Java SE（或者你喜欢的版本）,点击右侧的DOWNLOAD按钮
 3. 在新弹出的网页下，点击单选框 Accept License Agreement，下载对应版本
 ps. Linux系统建议选择.tar.gz版本，Windows可以选exe一键安装，安装路径名不要有空格
